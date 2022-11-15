@@ -9,7 +9,7 @@ public class Ejercicio22 {
         double num1 = sc.nextDouble();
         System.out.print("Nota 2ª Evaluación:");
         double num2 = sc.nextDouble();
-        System.out.print("Nota 2ª Evaluación:");
+        System.out.print("Nota 3ª Evaluación:");
         double num3 = sc.nextDouble();
         double suma = num1+num2+num3;
         double media = suma /3;
